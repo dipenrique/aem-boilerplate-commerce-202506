@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://com768.adobedemo.com/graphql",
-      "commerce-endpoint": "https://com768.adobedemo.com/cs-graphql",
+      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
       "headers": {
         "all": {
           "Store": "default"
@@ -21,7 +21,7 @@
         "environment": "Production",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://com768.adobedemo.com",
+        "store-url": "https://www.aemshop.net",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
